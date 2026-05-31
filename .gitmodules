@@ -1,3 +1,0 @@
-[submodule "models/PeptideBERT"]
-	path = models/PeptideBERT
-	url = https://github.com/ChakradharG/PeptideBERT.git
